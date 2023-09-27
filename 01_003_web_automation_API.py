@@ -58,4 +58,4 @@ def get_forecast_country(country):
             file.write(content)
 
 
-get_forecast_country("Aleppo")
+get_forecast_country("Washington")
